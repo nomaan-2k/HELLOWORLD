@@ -1,7 +1,8 @@
 # HELLOWORLD
-First Repository
+- First Repository
 
-Heyya 
-\nTrying to learn github
+Heyya  
+
+Trying to learn github
 So let's commit.
 
