@@ -2,6 +2,6 @@
 First Repository
 
 Heyya 
-Trying to learn github
+\nTrying to learn github
 So let's commit.
 
