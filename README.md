@@ -1,7 +1,9 @@
 # HELLOWORLD
-First Repository
+- First Repository
 
-Heyya 
-Trying to learn github
-So let's commit.
+  Heyya,  
+
+  Trying to learn to use Github
+  So let's commit.
+  and jump into Opensource
 
