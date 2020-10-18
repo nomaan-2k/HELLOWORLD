@@ -1,7 +1,7 @@
 # HELLOWORLD
 - First Repository
 
-Heyya  
+Heyya,  
 
 Trying to learn to use Github
 So let's commit.
