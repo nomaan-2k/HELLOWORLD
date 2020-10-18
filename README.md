@@ -5,5 +5,5 @@
 
   Trying to learn to use Github
   So let's commit.
-* and jump into Opensource
+  and jump into Opensource
 
